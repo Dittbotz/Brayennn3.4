@@ -1,7 +1,7 @@
 # [+] Update By BrayennnXD And All
 # [+] Script Free Jangan Di Perjual Belikan Ya
-# [+] Donasi Untuk BrayennnXD 
-# [+] Dana : 089622155832
+# [+] Donasi Untuk Ditbotzz 
+# [+] Dana : 087822342817
 # [+] Thanks Buat Yang Dah Bantu Donasi 😁
 
 #------------------[ IMPORT MODULE ]-------------------#
